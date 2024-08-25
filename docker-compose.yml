@@ -1,0 +1,11 @@
+version: '3'
+services:
+
+  backend:
+    image: amitchoudhary001/backend:latest
+    command: npm run server
+    ports:
+      - "4000:4000"
+
+ 
+
