@@ -10,7 +10,7 @@ import 'react-toastify/dist/ReactToastify.css';
 
 const App = () => {
 
-  const url = 'http://localhost:4000';
+  const url = 'http://AMIT-ALB-FOR-BACKEND-SERVER-1704654700.ap-south-1.elb.amazonaws.com';
 
   return (
     <div>
